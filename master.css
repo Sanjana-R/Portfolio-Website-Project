@@ -57,3 +57,7 @@ a {
     margin: 0 auto;
     text-align: left;
   }
+
+  #fname, #emailid, #msg {
+    background-color: #E7717D;
+  }
